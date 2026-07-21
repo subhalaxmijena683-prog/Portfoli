@@ -1,0 +1,104 @@
+{
+  "categories": [
+    {
+      "name": "Programming Languages",
+      "icon": "code",
+      "skills": [
+        { "name": "Java", "icon": "java" },
+        { "name": "JavaScript", "icon": "javascript" },
+          { "name": "Python", "icon": "python" }
+        
+      ]
+    },
+    {
+      "name": "Frontend Engineering",
+      "icon": "monitor",
+      "skills": [
+        { "name": "React.js", "icon": "react" },
+        { "name": "Vite", "icon": "vite" },
+        { "name": "Tailwind CSS", "icon": "tailwind" },
+       
+       
+        { "name": "HTML5", "icon": "html" },
+        { "name": "CSS3", "icon": "css" }
+        
+      ]
+    },
+    {
+      "name": "Backend Engineering",
+      "icon": "server",
+      "skills": [
+        { "name": "Java Backend Development", "icon": "java" },
+        { "name": "Spring Framework", "icon": "spring" },
+        { "name": "Spring Boot", "icon": "springboot" },
+        { "name": "Spring MVC", "icon": "spring" },
+        { "name": "Hibernate", "icon": "hibernate" },
+        { "name": "JPA", "icon": "database" },
+        { "name": "JDBC", "icon": "database" },
+        { "name": "REST APIs", "icon": "api" },
+        { "name": "Node.js", "icon": "nodejs" },
+        { "name": "Express.js", "icon": "express" }
+      ]
+    },
+    {
+      "name": "Databases",
+      "icon": "database",
+      "skills": [
+        { "name": "MongoDB", "icon": "mongodb" },
+        { "name": "MySQL", "icon": "mysql" },
+        { "name": "Oracle Database", "icon": "oracle" },
+        { "name": "Database Management System (DBMS)", "icon": "database" }
+      ]
+    },
+    {
+      "name": "Software Engineering",
+      "icon": "layers",
+      "skills": [
+        { "name": "Java Full Stack Development", "icon": "java" },
+        { "name": "MERN Stack", "icon": "mern" },
+        { "name": "Data Structures & Algorithms", "icon": "dsa" },
+        { "name": "Collections Framework", "icon": "collection" },
+        { "name": "MVC Architecture", "icon": "layers" }
+      
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "icon": "sparkles",
+      "skills": [
+        { "name": "Artificial Intelligence Fundamentals", "icon": "ai" },
+        { "name": "Prompt Engineering", "icon": "prompt" }
+      ]
+    },
+    {
+      "name": "Developer Tools",
+      "icon": "wrench",
+      "skills": [
+        { "name": "Git", "icon": "git" },
+        { "name": "GitHub", "icon": "github" },
+        { "name": "VS Code", "icon": "vscode" },
+        { "name": "IntelliJ IDEA", "icon": "intellij" },
+        { "name": "Eclipse IDE", "icon": "eclipse" },
+        { "name": "Postman", "icon": "postman" },
+        { "name": "Maven", "icon": "maven" },
+        { "name": "Figma", "icon": "figma" },
+         { "name": "Tomcat", "icon": "Tomcat" },
+          { "name": "XAMPP", "icon": "XAMPP" }
+          
+      
+
+      ]
+    },
+    {
+      "name": "Professional Skills",
+      "icon": "users",
+      "skills": [
+        { "name": "Leadership", "icon": "leadership" },
+        { "name": "Team Collaboration", "icon": "team" },
+        { "name": "Communication Skills", "icon": "communication" },
+        { "name": "Project Management", "icon": "management" },
+        { "name": "Quick Learning", "icon": "graduation" }
+      ]
+    }
+  ]
+}

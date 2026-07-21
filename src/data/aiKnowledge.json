@@ -1,0 +1,94 @@
+{
+  "greeting": "👋 Hello! I'm Subhalaxmi Jena's AI Assistant. I can answer questions about her skills, projects, internships, education, certifications, achievements, and career. Try asking me something!",
+
+  "fallback": "I'm sorry, I don't have information about that yet. You can ask me about skills, Java, Spring Boot, MERN Stack, AI, projects, internships, certifications, education, resume, or contact details.",
+
+  "keywords": {
+    "about": [
+      "about",
+      "who are you",
+      "introduce",
+      "introduction",
+      "yourself"
+    ],
+
+    "skills": [
+      "skills",
+      "technology",
+      "tech stack",
+      "java",
+      "spring",
+      "mern",
+      "react",
+      "backend",
+      "frontend"
+    ],
+
+    "projects": [
+      "project",
+      "portfolio",
+      "blackswap",
+      "marketmind",
+      "campus",
+      "career counselor",
+      "expense",
+      "airbnb"
+    ],
+
+    "experience": [
+      "experience",
+      "internship",
+      "amdox",
+      "infosys",
+      "seeree",
+      "cordsoft"
+    ],
+
+    "education": [
+      "education",
+      "college",
+      "degree",
+      "cgpa",
+      "study"
+    ],
+
+    "certificate": [
+      "certificate",
+      "achievement",
+      "award",
+      "hackathon"
+    ],
+
+    "contact": [
+      "contact",
+      "email",
+      "phone",
+      "linkedin",
+      "github"
+    ],
+
+    "resume": [
+      "resume",
+      "cv",
+      "download"
+    ]
+  },
+
+  "responses": {
+    "about": "👩‍💻 I'm Subhalaxmi Jena, a Computer Science Engineering student and Java Full Stack Developer from Bhubaneswar, India. I specialize in Java, Spring Boot, MERN Stack, REST APIs, MySQL, MongoDB, and Artificial Intelligence. I'm passionate about building scalable applications and solving real-world problems.",
+
+    "skills": "🚀 Technical Skills:\\n\\n• Java\\n• Spring Boot\\n• Spring Security\\n• Hibernate\\n• REST APIs\\n• React.js\\n• Node.js\\n• Express.js\\n• MongoDB\\n• MySQL\\n• JavaScript\\n• TypeScript\\n• HTML5\\n• CSS3\\n• Tailwind CSS\\n• Git & GitHub\\n• Postman\\n• Docker\\n• Artificial Intelligence\\n• Prompt Engineering\\n• Data Structures & Algorithms",
+
+    "projects": "💻 Featured Projects:\\n\\n⭐ BLACKSWAP – AI Student Marketplace\\n⭐ AI Career Counselor (Java Spring Boot)\\n⭐ Campus Interview Tracker\\n⭐ MarketMind – AI Trading Platform\\n⭐ Student Expense Calculator\\n⭐ Airbnb Clone\\n⭐ 3D Developer Portfolio",
+
+    "experience": "💼 Professional Experience:\\n\\n• Java Full Stack Intern – Seeree (Jul 2025 – Feb 2026)\\n• Core Java Intern – Cordsoft (Aug 2025 – Sep 2025)\\n• AI Training – Infosys Springboard (Jul 2026)\\n• Java Full Stack Internship – Amdox (Jun 2026 – Aug 2026)",
+
+    "education": "🎓 Education:\\n\\nB.Tech in Computer Science & Engineering\\nEinstein Academy of Technology & Management\\nCurrent CGPA: 8.9",
+
+    "certificate": "🏆 Highlights:\\n\\n🥇 1st Prize – Poster Presentation\\n🥇 Artificial Accident Alarm Winner\\n🥇 CRROM Winner\\n📜 Infosys AI Certifications\\n📜 Campus Ambassador Certificate\\n🏅 Hackathon Participation\\n🎤 Event Hosting & Cultural Activities",
+
+    "contact": "📧 Email:mailto:subhalaxmijena683@gmail.com\\n\\n💼 LinkedIn: https://www.linkedin.com/in/subhalaxmi-jena-aa90392a7/\\n\\n💻 GitHub:https://github.com/subhalaxmijena683-prog",
+
+    "resume": "📄 You can download my latest resume by clicking the Resume button in the portfolio or by asking 'Download Resume'."
+  }
+}

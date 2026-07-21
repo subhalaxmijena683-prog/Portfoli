@@ -1,0 +1,105 @@
+[
+  {
+    "id": "blackswap",
+    "title": "BLACKSWAP - AI Student Marketplace",
+    "description": "An AI-powered marketplace exclusively for students to buy, sell, and exchange products securely. Features AI trade suggestions, real-time chat, OTP authentication, image uploads, ratings, location-based matching, and a modern responsive interface.",
+    "video": "/public/blackswap.mp4",
+    "tech": [
+      "React",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Tailwind CSS",
+      "Socket.IO",
+      "JWT",
+      "Cloudinary"
+    ],
+    "github": "https://github.com/subhalaxmijena683-prog/BLACK-SWAP",
+    "live": "https://black-swap.vercel.app/",
+    "featured": true
+  },
+  {
+    "id": "campus-placement-system",
+    "title": "Campus Interview Tracker",
+    "description": "A complete placement management platform for colleges with role-based authentication, company management, student dashboard, interview scheduling, attendance tracking, candidate progress, reports, and placement analytics.",
+    
+    "video": "/public/campus.mp4",
+    "tech": [
+      "React",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "JWT",
+      "Tailwind CSS"
+    ],
+    "github": "https://github.com/subhalaxmijena683-prog/Campus-Placement-System",
+    "live": "https://campus-placement-system-frontend.onrender.com",
+    "featured": true
+  },
+  {
+    "id": "marketmind",
+    "title": "MarketMind - AI Trading Platform",
+    "description": "An AI-powered trading and market analysis platform providing stock insights, market trends, interactive dashboards, and intelligent investment recommendations through a clean modern interface.",
+    "image": "public/marketmind.png",
+    "video": "public/marketmind-demo.mp4",
+    "tech": [
+      "React",
+      "Spring Boot",
+      "MySQL",
+      "Chart.js",
+      "REST API"
+    ],
+    "github": "https://github.com/subhalaxmijena683-prog/MarketMind",
+    "live": "https://marketmind.vercel.app",
+    "featured": true
+  },
+  {
+    "id": "student-expense-calculator",
+    "title": "Student Expense Calculator",
+    "description": "A Spring Boot application that helps students manage daily expenses, visualize spending patterns, and generate financial reports with secure authentication and CRUD operations.",
+    "image": "public/expense-calculator.png",
+    "video": "public/expense-demo.mp4",
+    "tech": [
+      "Java",
+      "Spring Boot",
+      "MySQL",
+      "Bootstrap"
+    ],
+    "github": "https://github.com/subhalaxmijena683-prog/Student-Expense-Calculator",
+    "live": "https://expense-calculator-demo.vercel.app",
+    "featured": false
+  },
+  {
+    "id": "airbnb-clone",
+    "title": "Airbnb Clone",
+    "description": "A modern accommodation booking platform with property listings, authentication, booking features, search, filters, responsive design, and secure user management built using the MERN stack.",
+    "image": "/projects/airbnb-clone.png",
+    "video": "/videos/airbnb-demo.mp4",
+    "tech": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ],
+    "github": "https://github.com/subhalaxmijena683-prog/Airbnb-Clone",
+    "live": "https://airbnb-clone-demo.vercel.app",
+    "featured": false
+  },
+  {
+    "id": "portfolio",
+    "title": "3D Developer Portfolio",
+    "description": "A premium interactive portfolio featuring 3D animations, galaxy effects, Framer Motion, Three.js, project showcases, certifications, achievements, and responsive UI/UX design.",
+    "image": "/projects/portfolio.png",
+    "video": "/videos/portfolio-demo.mp4",
+    "tech": [
+      "React",
+      "Three.js",
+      "Framer Motion",
+      "Tailwind CSS",
+      "TypeScript"
+    ],
+    "github": "https://github.com/subhalaxmijena683-prog/Portfolio",
+    "live": "https://yourportfolio.vercel.app",
+    "featured": true
+  }
+]

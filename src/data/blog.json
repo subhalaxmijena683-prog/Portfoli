@@ -1,0 +1,62 @@
+[
+  {
+    "id": "spring-boot-rest-api",
+    "title": "Building Scalable REST APIs with Spring Boot",
+    "category": "Java",
+    "date": "July 2026",
+    "readTime": "6 min read",
+    "image": "/blogs/springboot-api.jpg",
+    "excerpt": "Learn how I build secure, scalable REST APIs using Spring Boot, Hibernate, MySQL, and JWT authentication while following industry best practices.",
+    "link": "#"
+  },
+  {
+    "id": "mern-journey",
+    "title": "My Journey to Becoming a MERN Stack Developer",
+    "category": "MERN Stack",
+    "date": "July 2026",
+    "readTime": "5 min read",
+    "image": "/blogs/mern-journey.jpg",
+    "excerpt": "From learning JavaScript fundamentals to developing complete MERN applications like BLACKSWAP and Campus Placement System, here's my learning journey.",
+    "link": "#"
+  },
+  {
+    "id": "generative-ai",
+    "title": "Getting Started with Generative AI",
+    "category": "Artificial Intelligence",
+    "date": "June 2026",
+    "readTime": "7 min read",
+    "image": "/blogs/genai.jpg",
+    "excerpt": "A beginner-friendly introduction to Generative AI, Large Language Models, prompt engineering, and practical AI applications for developers.",
+    "link": "#"
+  },
+  {
+    "id": "hackathon-experience",
+    "title": "What I Learned from My Hackathon Experience",
+    "category": "Hackathon",
+    "date": "May 2026",
+    "readTime": "5 min read",
+    "image": "/blogs/hackathon.jpg",
+    "excerpt": "Hackathons taught me teamwork, rapid problem solving, project presentation, and building production-ready solutions under tight deadlines.",
+    "link": "#"
+  },
+  {
+    "id": "portfolio-design",
+    "title": "How I Designed My 3D Developer Portfolio",
+    "category": "Portfolio",
+    "date": "July 2026",
+    "readTime": "8 min read",
+    "image": "/blogs/portfolio-3d.jpg",
+    "excerpt": "Explore how I built my futuristic 3D portfolio using React, Three.js, Framer Motion, GSAP, Tailwind CSS, and modern UI/UX principles.",
+    "link": "#"
+  },
+  {
+    "id": "internship-lessons",
+    "title": "Lessons from My Java Full Stack Internship",
+    "category": "Career",
+    "date": "June 2026",
+    "readTime": "6 min read",
+    "image": "/blogs/internship.jpg",
+    "excerpt": "My internship strengthened my understanding of Java Full Stack development, collaborative coding, Git workflows, debugging, and real-world software engineering.",
+    "link": "#"
+  }
+]

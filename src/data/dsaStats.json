@@ -1,0 +1,20 @@
+{
+  "problemsSolved": 420,
+  "leetcode": 180,
+  "gfg": 120,
+  "codeforces": 80,
+  "hackerrank": 40,
+  "githubContributions": 312,
+  "currentStreak": 14,
+  "longestStreak": 45,
+  "rankings": {
+    "leetcode": "Top 15%",
+    "codeforces": "Specialist"
+  },
+  "languages": {
+    "JavaScript": 35,
+    "Python": 25,
+    "Java": 20
+    
+  }
+}

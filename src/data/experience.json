@@ -1,0 +1,89 @@
+[
+  {
+    "id": "seeree",
+    "title": "Java Full Stack Developer Trainee",
+    "company": "Seeree",
+    "period": "Jul 2025 — Feb 2026",
+    "type": "Training",
+    "description": "Completed intensive industry-oriented training in Java Full Stack Development. Built enterprise-grade web applications using Java, Spring Boot, Hibernate, React.js, MySQL, and REST APIs while following modern software engineering practices.",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Spring MVC",
+      "Hibernate",
+      "JPA",
+      "JDBC",
+      "React.js",
+      "REST APIs",
+      "MySQL",
+      "Git"
+    ]
+  },
+  {
+    "id": "codsoft",
+    "title": "Core Java Intern",
+    "company": "CodSoft",
+    "period": "Aug 2025 — Sep 2025",
+    "type": "Internship",
+    "description": "Completed a Core Java internship focused on object-oriented programming, collections, exception handling, multithreading, file handling, and console-based application development through practical coding tasks.",
+    "skills": [
+      "Core Java",
+      "OOP",
+      "Collections",
+      "Exception Handling",
+      "Multithreading",
+      "JDBC"
+    ]
+  },
+  {
+    "id": "amdocs",
+    "title": "Software Development Intern",
+    "company": "Amdocs",
+    "period": "15 Jun 2026 — 15 Aug 2026",
+    "type": "Internship",
+    "description": "Worked on enterprise software development tasks, collaborated within Agile teams, implemented frontend and backend features, integrated REST APIs, and improved application performance using modern development practices.",
+    "skills": [
+      "Java",
+      "React.js",
+      "REST APIs",
+      "Git",
+      "GitHub",
+      "Agile"
+    ]
+  },
+  {
+    "id": "infosys",
+    "title": "Artificial Intelligence Intern",
+    "company": "Infosys Springboard",
+    "period": "Jul 2026 — Present",
+    "type": "Internship",
+    "description": "Learning Artificial Intelligence, Generative AI, Prompt Engineering, and Machine Learning fundamentals through industry-aligned projects, practical assignments, and AI-powered application development.",
+    "skills": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Prompt Engineering",
+      "Machine Learning",
+      "Python"
+    ]
+  },
+  {
+    "id": "self-projects",
+    "title": "Full Stack Developer",
+    "company": "Self-Directed",
+    "period": "2025 — Present",
+    "type": "Projects",
+    "description": "Developed production-ready software solutions that solve real-world problems. Built scalable full-stack applications including BLACKSWAP (AI-powered Student Marketplace), MarketMind (AI Trading Platform), Campus Interview Tracker, Student Expense Calculator, and Airbnb Clone using Java Full Stack and MERN technologies.",
+    "skills": [
+      "Java Full Stack",
+      "Spring Boot",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "MySQL",
+      "JWT",
+      "Socket.IO",
+      "Tailwind CSS"
+    ]
+  }
+]

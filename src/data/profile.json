@@ -1,0 +1,44 @@
+{
+  "name": "Subhalaxmi Jena",
+  "title": "Software Engineer | Full-Stack Developer | AI Innovator",
+  "tagline": "Designing intelligent software, architecting scalable systems, and building technology that creates lasting impact.",
+  "bio": "I am a software engineer driven by curiosity, innovation, and the pursuit of engineering excellence. My passion lies in building scalable full-stack applications, architecting reliable backend systems, and integrating Artificial Intelligence to solve meaningful real-world challenges. I enjoy transforming ambitious ideas into fast, secure, and production-ready products through clean code, modern technologies, and thoughtful system design. Every project is an opportunity to learn, innovate, and create software that empowers people, solves complex problems, and stands the test of time.",
+  "location": "India",
+  "email": "subhalaxmijena683@gmail.com",
+  "phone": "+91 8217612521",
+  "cgpa": "9.3",
+  "cgpaScale": "10.0",
+  "university": "Biju Patnaik University of Technology, Odisha",
+  "degree": "B.Tech in Computer Science",
+  "graduationYear": "2027",
+  "careerObjectives": [
+  "Build world-class software products that solve complex real-world problems at global scale",
+  "Develop high-performance, scalable, and secure full-stack applications using modern technologies",
+  "Harness Artificial Intelligence and Machine Learning to create intelligent, impactful digital experiences"
+
+  ],
+  "personalStory": "Curiosity sparked my journey into software development, but the ability to transform ideas into impactful technology made it my passion. From writing my first 'Hello World' to developing full-stack applications, AI-driven solutions, and real-world projects, every experience has shaped me into a developer who values innovation, scalability, and purposeful design. I enjoy solving complex problems, learning emerging technologies, and building products that are fast, reliable, and user-focused. For me, programming is more than writing code—it's about creating technology that empowers people, solves meaningful problems, and leaves a lasting impact.",
+  "education": [
+    {
+      "id": "btech",
+      "degree": "B.Tech — Computer Science",
+      "institution": "Biju Patnaik University of Technology, Odisha",
+      "period": "2023 — 2027",
+      "description": "Building a strong foundation in Computer Science through advanced study of algorithms, software engineering, databases, operating systems, computer networks, and artificial intelligence while applying these principles to develop scalable, production-ready software solutions."
+    },
+    {
+      "id": "intermediate",
+      "degree": "Higher Secondary (Science)",
+      "institution": "Gyanadeep Group Of Institutes, Berhampur",
+      "period": "2020 — 2022",
+      "description": "Physics, Chemistry, Mathematics with Information technology (IT)."
+    },
+    {
+      "id": "school",
+      "degree": "Secondary School",
+      "institution": "Gopinath DevBidya pitha,Puri",
+      "period": "2018 — 2020",
+      "description": "Foundation in mathematics and science with early programming exposure."
+    }
+  ]
+}

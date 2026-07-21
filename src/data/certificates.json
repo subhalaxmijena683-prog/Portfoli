@@ -1,0 +1,264 @@
+[
+ 
+  
+  {
+    "id": "pw-campus-ambassador",
+    "title": "Campus Ambassador Certificate",
+    "issuer": "Physics Wallah (PW)",
+    "date": "Jun 2026",
+    "image": "/public/pw.jpeg"
+  },
+   {
+    "id": "seeree-java-fullstack",
+    "title": "Java Full Stack Developer Internship Offer",
+    "issuer": "seeree pvt.ltd",
+    "date": "Jun 2025",
+    "image": "/public/offl2.jpeg"
+  },
+   {
+    "id": "codesoft",
+    "title": "Java Full Stack Developer Internship Offer",
+    "issuer": "codesoft Technologies",
+    "date": "aug 2025",
+    "image": "/public/offletter-1.jpeg"
+  },
+  {
+    "id": "infrasoftech-selection",
+    "title": "Full Stack Developer Internship Selection",
+    "issuer": "InfrasofTech Pvt. Ltd.",
+    "date": "Apr 2026",
+    "image": "/public/int1.jpeg"
+  },
+  {
+    "id": "infosys-ai-primer",
+    "title": "Artificial Intelligence Primer",
+    "issuer": "Infosys Springboard",
+    "date": "Apr 2026",
+    "image": "/public/cf17.jpeg"
+  },
+  {
+    "id": "infosys-genai",
+    "title": "Principles of Generative AI",
+    "issuer": "Infosys Springboard",
+    "date": "Apr 2026",
+    "image": "/public/cf16.jpeg"
+  },
+  {
+    "id": "hackathon-team",
+    "title": "Hackathon Participation",
+    "issuer": "BPUT Hackathon",
+    "date": "2026",
+    "image": "/public/hc1.jpeg"
+    
+  },
+  {
+    "id": "hackathon-id",
+    "title": "BPUT Hackathon Delegate",
+    "issuer": "BPUT",
+    "date": "2026",
+    "image": "/public/hc4.jpeg"
+  },
+  {
+    "id": "poster-presentation",
+    "title": "1st Prize - Poster Presentation",
+    "issuer": "Einstein Academy of Technology & Management",
+    "date": "2026",
+    "image": "/public/pp1.jpeg"
+  },
+  {
+    "id": "hackathon-project",
+    "title": "Team Project Showcase",
+    "issuer": "Hackathon",
+    "date": "2026",
+    "image": "/public/hc2.jpeg"
+  },
+  {
+    "id": "aurora-singing-1",
+    "title": "Aurora Annual Cultural Fest Performance",
+    "issuer": "Einstein Academy of Technology & Management",
+    "date": "2026",
+    "image": "/public/ac1.jpeg"
+  },
+  {
+    "id": "aurora-singing-2",
+    "title": "Stage Performance",
+    "issuer": "Aurora 2K26",
+    "date": "2026",
+    "image": "/public/ac5.jpeg"
+  },
+  {
+    "id": "freshers-host",
+    "title": "Freshers Event Host",
+    "issuer": "Einstein Academy of Technology & Management",
+    "date": "2024",
+    "image": "/public/ac3.jpeg"
+  },
+  {
+    "id": "freshers-host-2",
+    "title": "Master of Ceremony (MC)",
+    "issuer": "Freshers' Welcome",
+    "date": "2024",
+    "image": "/public/ac2.jpeg"
+  },
+  {
+    "id": "stage-performance",
+    "title": "Aurora Cultural Performance",
+    "issuer": "Aurora 2K24",
+    "date": "2024",
+    "image": "/public/ac4.jpeg"
+  },
+  {
+    "id": "trophy",
+    "title": "1st Prize Trophy",
+    "issuer": "Einstein Academy of Technology & Management",
+    "date": "2026",
+    "image": "/public/pp4.jpeg"
+  },
+   {
+    "id": "trophy",
+    "title": "1st Prize Trophy",
+    "issuer": "Einstein Academy of Technology & Management",
+    "date": "2026",
+    "image": "/public/pp5.jpeg"
+  },
+  
+   {
+    "id": "trophy",
+    "title": "1st Prize Trophy",
+    "issuer": "Einstein Academy of Technology & Management",
+    "date": "2026",
+    "image": "/public/pp6.jpeg"
+  },
+  
+  {
+    "id": "introduction-to-data-science",
+    "title": "Introduction to Data Science",
+    "issuer": "Infosys Springboard",
+    "date": "Apr 2026",
+    "image": "/public/cft-1.jpeg"
+  },
+  {
+    "id": "introduction-to-natural-language-processing",
+    "title": "Introduction to Natural Language Processing",
+    "issuer": "Infosys Springboard",
+    "date": "Apr 2026",
+    "image": "/public/cft2.jpeg"
+  },
+  {
+    "id": "introduction-to-deep-learning",
+    "title": "Introduction to Deep Learning",
+    "issuer": "Infosys Springboard",
+    "date": "Apr 2026",
+    "image": "/public/cft-3.jpeg"
+  },{
+    "id": "Generative model to develop ",
+    "title": "Generative model to develop",
+    "issuer": "Infosys Springboard",
+    "date": "Apr 2026",
+    "image": "/public/cft4.jpeg"
+  },{
+    "id": "introduction-to-Robotics",
+    "title": "Introduction to Robotics",
+    "issuer": "Infosys Springboard",
+    "date": "Apr 2026",
+    "image": "/public/cft5.jpeg"
+  },{
+    "id": "Deep learning for developers",
+    "title": "Deep Learning for Developers",
+    "issuer": "Infosys Springboard",
+    "date": "Apr 2026",
+    "image": "/public/cft6.jpeg"
+  },{
+    "id": "Generative AI for developers",
+    "title": "Generative AI for developers",
+    "issuer": "Infosys Springboard",
+    "date": "Apr 2026",
+    "image": "/public/cft7.jpeg"
+  },{
+    "id": "introduction to Artificial Intelligence",
+    "title": "introduction to Artificial Intelligence",
+    "issuer": "Infosys Springboard",
+    "date": "Apr 2026",
+    "image": "/public/cft8.jpeg"
+  },{
+    "id": "Agile scrums for developers",
+    "title": "Agile Scrums for Developers",
+    "issuer": "Infosys Springboard",
+    "date": "Apr 2026",
+    "image": "/public/cft9.jpeg"
+  },{
+    "id": "Computer vision 101",
+    "title": "Computer Vision 101",
+    "issuer": "Infosys Springboard",
+    "date": "Apr 2026",
+    "image": "/public/cft10.jpeg"
+  },{
+    "id": "prompt engineering for developers",
+    "title": "Prompt Engineering for Developers",
+    "issuer": "Infosys Springboard",
+    "date": "Apr 2026",
+    "image": "/public/cft11.jpeg"
+  },{
+    "id": "artificial intelligence2",
+    "title": "Artificial Intelligence ",
+    "issuer": "Infosys Springboard",
+    "date": "Apr 2026",
+    "image": "/public/cft12.jpeg"
+  },{
+    "id": "introduction to openai gpt models",
+    "title": "Introduction to OpenAI GPT Models",
+    "issuer": "Infosys Springboard",
+    "date": "Apr 2026",
+    "image": "/public/cft13.jpeg"
+  },{
+    "id": "gpt-3.5-turbo-for-developers",
+    "title": "GPT-3.5 Turbo for Developers",
+    "issuer": "Infosys Springboard",
+    "date": "Apr 2026",
+    "image": "/public/cft14.jpeg"
+  },{
+    "id": "python coder",
+    "title": "Python Coder",
+    "issuer": "kaggle",
+    "date": "Apr 2026",
+    "image": "/public/cft15.jpeg"
+  },
+   {
+    "id": "adrasta-singing-2",
+    "title": "Stage Performance",
+    "issuer": "adrasta 2K24",
+    "date": "2024",
+    "image": "/public/ac1.jpeg"
+  },{
+    "id": "hackathon-team",
+    "title": "Hackathon Participation",
+    "issuer": "BPUT Hackathon",
+    "date": "2025",
+    "image": "/public/hc3.jpeg"
+    
+  },
+   {
+    "id": "poster-presentation",
+    "title": "1st Prize - Poster Presentation",
+    "issuer": "Einstein Academy of Technology & Management",
+    "date": "2024",
+    "image": "/public/pp2.jpeg"
+  },
+   {
+    "id": "poster-presentation",
+    "title": "1st Prize - Poster Presentation",
+    "issuer": "Einstein Academy of Technology & Management",
+    "date": "2023",
+    "image": "/public/pp7.jpeg"
+  },
+   {
+    "id": "poster-presentation",
+    "title": "2nd Prize - Poster Presentation",
+    "issuer": "Einstein Academy of Technology & Management",
+    "date": "2023",
+    "image": "/public/pp3.jpeg"
+  }
+
+
+
+]
