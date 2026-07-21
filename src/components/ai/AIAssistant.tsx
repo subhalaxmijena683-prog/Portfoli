@@ -2,7 +2,7 @@ import { useState, useRef, useEffect } from 'react'
 import aiIcon from '../../../public/ai-icon.png'
 import { motion, AnimatePresence } from 'framer-motion'
 import {
-  HiSparkles,
+
   HiPaperAirplane,
   HiX,
 } from 'react-icons/hi'

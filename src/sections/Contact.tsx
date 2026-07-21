@@ -12,14 +12,11 @@ import profile from '../data/profile.json'
 export default function Contact() {
   const [formData, setFormData] = useState({ name: '', email: '', message: '' })
  const [submitted, setSubmitted] = useState(false)
-const [loading, setLoading] = useState(false)
-const [error, setError] = useState('')
 
  const handleSubmit = async (e: FormEvent) => {
   e.preventDefault()
 
-  setLoading(true)
-  setError('')
+
 
   try {
     await emailjs.send(
@@ -46,9 +43,6 @@ const [error, setError] = useState('')
     }, 3000)
   } catch (error) {
     console.error(error)
-    setError('Failed to send message. Please try again.')
-  } finally {
-    setLoading(false)
   }
 }
 

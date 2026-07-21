@@ -1,6 +1,6 @@
-import { lazy, Suspense } from 'react'
+
 import { motion } from 'framer-motion'
-import { HiDownload, HiArrowDown } from 'react-icons/hi'
+import { HiDownload } from 'react-icons/hi'
 import { FaRocket } from 'react-icons/fa'
 import Button from '../components/ui/Button'
 import { useTypingEffect } from '../hooks/useTypingEffect'
@@ -8,7 +8,7 @@ import { scrollToSection } from '../utils/helpers'
 import { RESUME_URL } from '../constants/theme'
 import profile from '../data/profile.json'
 
-const HeroScene = lazy(() => import('../components/three/HeroScene'))
+
 
 export default function Hero() {
   const typedText = useTypingEffect()
