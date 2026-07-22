@@ -1,5 +1,5 @@
 import { useState, useRef, useEffect } from 'react'
-import aiIcon from '../../../public/ai-icon.png'
+import aiIcon from '../../assets/ai-icon.png'
 import { motion, AnimatePresence } from 'framer-motion'
 import {
 

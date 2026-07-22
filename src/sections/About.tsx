@@ -3,7 +3,7 @@ import { HiAcademicCap, HiStar } from 'react-icons/hi'
 import SectionHeading from '../components/ui/SectionHeading'
 import GlassCard from '../components/ui/GlassCard'
 import profile from '../data/profile.json'
-import myPhoto from '../../public/profile.png'
+import myPhoto from '../assets/profile.png'
 export default function About() {
   return (
     <section id="about" className="section-padding relative" aria-label="About section">
