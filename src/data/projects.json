@@ -3,7 +3,7 @@
     "id": "blackswap",
     "title": "BLACKSWAP - AI Student Marketplace",
     "description": "An AI-powered marketplace exclusively for students to buy, sell, and exchange products securely. Features AI trade suggestions, real-time chat, OTP authentication, image uploads, ratings, location-based matching, and a modern responsive interface.",
-    "video": "../../public/videos/blackswap.mp4",
+    "video": "/videos/blackswap.mp4",
     "tech": [
       "React",
       "Node.js",
@@ -23,7 +23,7 @@
     "title": "Campus Interview Tracker",
     "description": "A complete placement management platform for colleges with role-based authentication, company management, student dashboard, interview scheduling, attendance tracking, candidate progress, reports, and placement analytics.",
     
-    "video": "../../public/videos/campus.mp4",
+    "video": "/videos/campus.mp4",
     "tech": [
       "React",
       "Node.js",
