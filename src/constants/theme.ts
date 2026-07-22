@@ -23,7 +23,7 @@ export const SOCIAL_LINKS = {
   twitter: 'https://x.com/jena__19',
 } as const
 
-export const RESUME_URL = '/public/subha_resume.pdf'
+export const RESUME_URL = '/images/subha_resume.pdf'
 
 export const TYPING_PHRASES = [
   'Full Stack Developer',
